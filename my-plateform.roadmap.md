@@ -46,7 +46,7 @@ Exemples:
 
 <a href="https://mathcurve.com/fractals/arbre/arbre.shtml/">
          <img alt="Pytagore Tree" src="https://mathcurve.com/fractals/arbre/pythago2.gif"
-         width=200" height="160">
+         width=200" height="160"></a>
 <br>
 when you scroll up the tree uncoil and the screen move where your mouse is
 <br>
@@ -60,6 +60,12 @@ contact info always visible on the left of the screen.
 
 <a href="https://www.britannica.com/biography/Niels-Fabian-Helge-von-Koch/images-videos">
          <img alt="Pytagore Tree" src="https://cdn.britannica.com/s:1500x700,q:85/20/96220-004-592AD413/Koch-snowflake-Niels-von-fractal-Swedish-curve-1906.jpg"
-         width=200" height="200">
+         width=200" height="200"></a>
+<br>
+or 
+<br>
+<a href="https://fractal.build/">
+         <img alt="snowflakes type fractal 2" src="https://d33wubrfki0l68.cloudfront.net/5d2e88eb1e2b69f3f8b3a3372b6e4b3b4f095130/2159b/hero.png"
+         width=200" height="200"></a>
 <br>
 central menu, scroll on the bottom of the screen made the snowflake rotate, clic or scroll on one of the branch zoom in.
